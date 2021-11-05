@@ -1,2 +1,2 @@
 # Flutter-Programming
-Latihan dan Beljar Flutter
+Latihan dan Belajar Flutter
